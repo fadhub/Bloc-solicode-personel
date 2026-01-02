@@ -13,5 +13,8 @@
 ## Choix de lab
 -  AJAX
 
+## Livrable
+- Partie admin gestion des utilisateurs
+
 ## Entretien avec : 
 - Formateur Youssef Ziani
