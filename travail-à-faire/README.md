@@ -11,10 +11,10 @@
 - Mr. ESSARRAJ FOUAD
 
 ## Choix de lab
--  AJAX
+-  Spatie
 
 ## Livrable
 - Partie admin gestion des utilisateurs
 
 ## Entretien avec : 
-- Formateur Youssef Ziani
+- Formateur Imane
